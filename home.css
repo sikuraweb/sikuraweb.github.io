@@ -69,3 +69,8 @@ body {
     -webkit-transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
   }
 }
+
+.jack-twst {
+    width: 444px
+    height:250px
+}

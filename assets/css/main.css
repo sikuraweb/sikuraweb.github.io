@@ -3916,7 +3916,7 @@ li {
   display: inline;
 }
 
-ul {
+ul.tyu {
   margin: 0;
   padding: 0;
   text-align: center;

@@ -3912,3 +3912,6 @@ div .netarealist {
 	bottom: 30px;
 
 }
+ul {
+  list-style: none;
+}
